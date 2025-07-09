@@ -50,10 +50,10 @@ public class Stack {
 		s.nextLine();
 		Nomain n=new Nomain(size);
 		
-//		n.push("Abi");
+//		n.push("dharshini");
 //		n.push("Hahaa");
 //		n.pop();
-//		n.push("Ajay");
+//		n.push("sharni");
 //		n.display();
 		for(int i=0;i<size;i++)
 		{
